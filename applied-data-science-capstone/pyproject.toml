@@ -1,9 +1,9 @@
 [project]
-name = "ibm-data-science-capstone"
+name = "applied-data-science-capstone"
 version = "0.1.0"
 description = "Add your description here"
 authors = [
-    { name = "Martin Walsh", email = "1520570+martinwalsh@users.noreply.github.com" }
+    { name = "Payal Singh", email = "singh.payal.1404@gmail.com" }
 ]
 dependencies = [
     "jupyter>=1.0.0",
@@ -38,4 +38,4 @@ dev-dependencies = []
 allow-direct-references = true
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/ibm_data_science_capstone"]
+packages = ["src/applied-data-science-capstone"]
